@@ -1,0 +1,35 @@
+O que é?
+
+A inteligência de dados refere-se ao processo de coleta, organização, análise e interpretação de grandes volumes de informações para gerar insights estratégicos. Ela transforma dados brutos em conhecimento acionável, permitindo que as empresas tomem decisões mais embasadas, otimizem processos, antecipem riscos e criem vantagens competitivas.
+
+Este conceito é uma evolução do Business Intelligence (BI), que surgiu na década de 1990 com o avanço da tecnologia da informação. Enquanto o BI tradicional se concentra em relatórios e dashboards descritivos, a inteligência de dados vai além, incorporando análises complexas e tecnologias emergentes como Big Data e Machine Learning. Isso permite uma visão mais profunda do mercado, dos clientes e das operações internas.
+
+Com o aumento exponencial da geração de dados, a inteligência de dados tornou-se uma necessidade estratégica. Empresas que dominam essa prática podem entender melhor o comportamento do mercado e tomar decisões com mais precisão, garantindo uma posição competitiva sólida.
+
+https://www.nuclea.com.br/o-que-e-inteligencia-de-dados/ Acessado: 28/04/2026 as 8:18
+insight = percepção
+
+Como Funciona
+Inteligência de dados funciona como uma cadeia de valor. Dados entram como matéria-prima e saem como decisões, alertas, previsões e melhorias de processo. No meio do caminho, existe um trabalho invisível que define o resultado.
+
+O primeiro bloco são as fontes. Entram dados do ERP, CRM, e-commerce, mídia, atendimento, logística, folha, produção e sistemas legados. Entram também sinais externos, como mercado, concorrência, clima, câmbio e indicadores setoriais, quando fazem sentido.
+O segundo bloco é a integração. Aqui a empresa conecta fontes, resolve cadastros, padroniza campos e define regras. Sem essa etapa, cada área mede do seu jeito.
+O terceiro bloco é a preparação. É onde acontece limpeza, validação e enriquecimento. Essa parte costuma ser subestimada, mas é decisiva para a confiança.
+O quarto bloco é o armazenamento e o modelo. Pode ser data warehouse, data lake ou arquitetura híbrida. O que importa é manter rastreabilidade e consistência para análises.
+O quinto bloco é governança e segurança. Aqui entram controles de acesso, logs, auditoria, catálogo e regras de uso. Esse bloco protege a empresa e viabiliza escala.
+O sexto bloco é análise e entrega. BI e analytics transformam dados em visão gerencial. A IA aplicada pode ampliar capacidade de previsão e automação. E a entrega precisa chegar na pessoa certa, no momento certo, no formato certo.
+Essa cadeia funciona melhor quando existe clareza de responsabilidade. Dados não são “do TI”. São do negócio, com apoio do TI. Quando ninguém é dono, a qualidade degrada.
+
+Quando tudo isso se encaixa, inteligência de dados deixa de ser um “projeto paralelo” e vira parte do fluxo de trabalho. O dado passa a ser usado como instrumento de decisão, não como relatório de fim de mês.
+
+https://www.sankhya.com.br/gestao-de-negocios/inteligencia-de-dados/ Acessado em 28/04/2026 as 8:29
+
+Para que serve?
+A inteligência de dados serve para transformar informações dispersas em valor real, aplicando-se a diversas áreas: 
+Otimização Operacional e Eficiência: Identifica gargalos, retrabalho, desperdícios e rupturas em processos de produção e logística, permitindo ajustes finos.
+Antecipação de Riscos e Tendências: Utiliza análises preditivas para prever demandas, comportamentos futuros e identificar oportunidades de mercado antes dos concorrentes.
+Personalização da Experiência do Cliente: Personaliza ofertas, produtos e serviços com base no comportamento real de compra, aumentando a conversão.
+Redução de Custos e Aumento de Lucros: Identifica áreas onde gastos podem ser otimizados, melhorando a margem de contribuição.
+Detecção de Fraudes: Em serviços financeiros, algoritmos analisam transações em tempo real para barrar atividades suspeitas
+
+https://www.nuclea.com.br/o-que-e-inteligencia-de-dados/ Acessado: 28/04/2026 as 8:32
