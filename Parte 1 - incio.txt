@@ -33,3 +33,23 @@ Redução de Custos e Aumento de Lucros: Identifica áreas onde gastos podem ser
 Detecção de Fraudes: Em serviços financeiros, algoritmos analisam transações em tempo real para barrar atividades suspeitas
 
 https://www.nuclea.com.br/o-que-e-inteligencia-de-dados/ Acessado: 28/04/2026 as 8:32
+
+Pontos positivos:
+
+- Velocidade para obtençao de informaçoes para colaboradores que atuam na linha de frente do negocio, melhorando o desempenho de tais agentes
+- Menos espaço ocupado com papel
+- Facilidade em achar dados especificos dentro de grande sistemas
+- Automaçao de decisoes na empresa 
+- Melhora a tomada de decisões de empresas
+
+Pontos negativos:
+
+- Dificuldade de adaptação
+- Gastos de energia maiores
+- Aquecimento de servidores
+- Alta demanda de manutenção
+- Falta de padronização de dados
+
+
+
+
