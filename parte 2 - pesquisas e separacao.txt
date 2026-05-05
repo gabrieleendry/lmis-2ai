@@ -1,0 +1,31 @@
+---------------------------------------------- parte 2 -----------------------------------------------------------------------|
+
+🔹 Parte A – Impacto da inteligência de dados nas empresas ( inicio )
+
+(foco em mercado, negócios e resultados)
+
+1 - Como a inteligência de dados está transformando a competitividade entre empresas.
+2 - De que forma empresas como Amazon e Netflix usam dados para influenciar decisões dos consumidores.
+3 - O impacto da inteligência de dados na experiência do cliente e na personalização de serviços.
+4 - Os impactos econômicos do uso de dados nas empresas (crescimento, produtividade e geração de valor).
+
+
+🔹 Parte B – Tecnologia, inovação e futuro ( final )
+
+(foco em como funciona e para onde está indo)
+
+5 - Como o uso de Machine Learning permite prever comportamentos e tendências.
+6 - A importância da análise de dados em tempo real para empresas e serviços. 
+7 - Como a inteligência de dados contribui para inovação e criação de novos produtos.
+8 - Como a inteligência de dados está moldando o futuro do trabalho e as novas profissões na área de Ciência de Dados.
+
+----------------------------------------------------------------------------------------------------------------------------|
+
+  
+https://www.redalyc.org/journal/4417/441755489011/441755489011.pdf  ----------------!
+
+https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained?utm_source
+https://www.weforum.org/stories/2022/03/study-machine-learning-manufacturing/?utm_source
+https://www.mckinsey.com.br/~/media/mckinsey/industries/public%20and%20social%20sector/our%20insights/the%20age%20of%20analytics%20competing%20in%20a%20data%20driven%20world/the-age-of-analytics-full-report.pdf?utm_source
+https://editorarevistas.mackenzie.br/index.php/pcg/article/view/16962?utm_source
+https://sloanreview.mit.edu/article/how-big-data-is-empowering-ai-and-machine-learning-at-scale/?utm_source
